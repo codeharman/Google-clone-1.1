@@ -1,7 +1,21 @@
 input {
+  display: block;
+  margin-top: 20px;
+  margin-left: 500px;
   width: 400px;
+  border-radius: 10px;
+  border: thin solid black
 }
 
 img {
+  display: block;
+  margin-top: 200px;
+  margin-left: 550px;
   width: 300px;
+}
+
+#buttons {
+  display: block;
+  margin-top: 20px;
+  margin-left: 590px;
 }
