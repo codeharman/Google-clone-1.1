@@ -21,10 +21,9 @@ img {
   width: 300px;
 }
 
-.buttons {
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+.btn {
+    margin-left: 5px;
+    margin-right: 5px;
     margin-top: 15px;
     border: none;
     padding-top: 8px;
@@ -33,4 +32,9 @@ img {
     padding-right: 16px;
     border-radius: 4px;
     font-size: 14px;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
 }
