@@ -1,8 +1,9 @@
 input {
   display: block;
   margin-top: 20px;
-  margin-left: 500px;
   width: 400px;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 10px;
   border: thin solid black
 }
@@ -10,12 +11,14 @@ input {
 img {
   display: block;
   margin-top: 200px;
-  margin-left: 550px;
+  margin-left: auto;
+  margin-right: auto;
   width: 300px;
 }
 
 #buttons {
-  display: block;
-  margin-top: 20px;
-  margin-left: 590px;
+  display: inline;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
 }
